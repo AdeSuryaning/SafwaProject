@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617402293259",
+    "firebase_url": "https://safwaprojek-cea9b-default-rtdb.firebaseio.com",
+    "project_id": "safwaprojek-cea9b",
+    "storage_bucket": "safwaprojek-cea9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617402293259:android:f2ba3f96fb4517d1d53b0e",
+        "android_client_info": {
+          "package_name": "com.example.safwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617402293259-kb2a2r15j8eq28qa2bo9bsi9ajfmr0sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxdTftWO07h2pMzf7RwbgmGbyZ_BH-ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617402293259-kb2a2r15j8eq28qa2bo9bsi9ajfmr0sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

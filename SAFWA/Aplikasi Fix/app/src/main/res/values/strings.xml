@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SAFWA</string>
+
+    //navigation
+    <string name="title_beranda">Beranda</string>
+    <string name="title_riwayat">Riwayat</string>
+    <string name="title_info">Info</string>
+
+    //fragment
+    <string name="sub_data">DATA PEMAKAIAN</string>
+    <string name="sub_rinci">RINCIAN</string>
+    <string name="sub_riwayat">RIWAYAT PEMAKAIAN</string>
+    <string name="sub_rata">RATA - RATA</string>
+    <string name="debit">DEBIT AIR</string>
+    <string name="tagihan">TAGIHAN</string>
+    <string name="sub_device">DEVICE</string>
+    <string name="sub_contact">CONTACT</string>
+    <string name="sub_develop">DEVELOPERS</string>
+    <string name="nama">NAMA</string>
+    <string name="no_serial">SERIAL NUMBER</string>
+    <string name="trial">FIRST TRIAL</string>
+    <string name="pdam">PDAM</string>
+    <string name="email">EMAIL</string>
+    <string name="telp">TELP</string>
+
+    <string name="emailPDAM">pdam@pdamkotasmg.co.id</string>
+    <string name="telpPDAM">0800 1503 888</string>
+    <string name="emailDev">safwaprojek@gmail.com</string>
+    <string name="telpDev">0813 9174 7105</string>
+
+    <string name="idDevice">SA0001</string>
+    <string name="channelId">Warning</string>
+    <string name="channelName">Notification</string>
+
+</resources>
